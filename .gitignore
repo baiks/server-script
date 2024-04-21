@@ -1,5 +1,9 @@
+### Venv ###
 venv
+
+### IntelliJ IDEA ###
 .idea
-*.pyc
-*~
-*.swp
+.idea/
+
+### VS Code ###
+.vscode/
