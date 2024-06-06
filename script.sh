@@ -1,0 +1,1 @@
+python3 ~/PycharmProjects/server-script/main.py
